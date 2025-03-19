@@ -2,6 +2,10 @@
   Welcome to OneSubs 🙌
 </h1>
 
+<p align="center">
+  All-in-one subscription for premium apps
+</p>
+
 ## 🚀 Redefining the way you access online services
 
 OneSubs allows users to pay once and enjoy multiple premium services while helping service providers earn more. We simplify subscriptions and create a win-win for users and businesses.  
